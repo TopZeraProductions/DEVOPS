@@ -1,2 +1,3 @@
-# AC1DEVOPS-TOPZERA
-Ac de DevOps 09-08-2018
+# RamonCP
+Meu sonho de consumo atualmente é o Notebook Samsung Gaming Odyssey
+
