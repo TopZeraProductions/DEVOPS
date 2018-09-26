@@ -1,0 +1,81 @@
+front of card
+
+Como cliente, eu quero ver a localização da pizzaria para saber a proximidade
+
+Priority:
+Estimate: 5
+
+
+back of card
+
+O cliente deve digitar o CEP para ter acesso a localização
+
+________________________________________________________________________________________________               ####################################################################################               
+
+front of card
+
+Como cliente, eu quero me cadastrar para realizar compra de produtos
+
+Priority: 
+Estimate: 8
+
+
+back of card
+
+O cliente deve digitar um nome, senha  e e-mail e telefone para cadastro. 				       
+O cliente deve digitar um cep e endereço válido para entrega de produtos.		       
+O cliente deve morar a 5km da pizzaria para poder solicitar os produtos.			      
+
+________________________________________________________________________________________________               ####################################################################################               
+
+front of card
+
+Como ADM da pizzaria, eu quero ter acesso aos pedidos dos clientes para realizar a entrega
+
+Priority:
+Estimate: 5
+
+back of card
+
+O ADM deve estar logado em sua conta para realizar a visualização
+O ADM deve digitar o telefone do cliente para fazer a busca do pedido
+
+________________________________________________________________________________________________               ####################################################################################               
+
+front of card
+
+Como ADM da pizzaria, eu quero poder excluir cadastros de clientes.
+
+Priority:
+Estimate: 5
+
+back of card
+
+O ADM deve estar logado em sua conta para realizar a exclusão
+O ADM deve procurar o cadastro pelo nome e telefone para fazer a exclusão
+
+
+________________________________________________________________________________________________               ####################################################################################               
+
+Front of Card 
+
+Como cliente , eu quero poder ver o cardápio online para que eu possa escolher o produto desejado
+
+Priority: Alta
+Estimate: 5
+
+back of card 
+
+O cliente deve acessar o site para ver o cardápio online
+________________________________________________________________________________________________               ####################################################################################
+
+Front of Card
+
+Como ADM, quero cadastrar novos produtos no cardápio online
+
+Priority: Alta
+Estimate: 5
+
+back of card
+
+O ADM deve estar logado em sua conta para cadastrar novos produtos
